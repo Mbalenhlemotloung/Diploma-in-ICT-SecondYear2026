@@ -22,18 +22,29 @@ Overall, this week's lesson helped me understand one of the most important conce
 - `JOptionPane` uses static methods.
 - Understanding the difference between these methods is important when writing Java programs.
 
-# What I Found Difficult
+---
 
-At first, I struggled to understand when to create an object and when it was not necessary. I also found it confusing to remember which predefined classes use instance methods and which use static methods. After practising the examples, the difference became much clearer.
+# Reflection on Practical 1A
+
+This week I completed **Practical 1A**, where I created an `Employee` class based on a UML diagram. The practical helped me apply the concepts I learned during the week instead of only reading about them.
+
+I created the `Employee` class with private instance variables, constructors, getter and setter methods, an `increaseSalary()` method, and a `toString()` method. I also created a main class where I constructed `Employee` objects using both the default constructor and the overloaded constructor. I used the `Scanner` class to allow the user to enter employee information and later updated the program to use `JOptionPane` for input and output.
+
+This practical helped me understand the difference between instance methods and static methods. I realised that methods such as the getters, setters, and `increaseSalary()` belong to an object, while the `JOptionPane` methods are static and can be called using the class name without creating an object.
+
+Overall, the practical gave me more confidence in creating classes from UML diagrams and writing Java programs that use objects, constructors, methods, and user input. It also showed me how important it is to practise coding because applying the concepts made them much easier to understand than simply reading about them.
 
 
-# How I Improved
+# Skills I Practised
 
-- I created my own PowerPoint notes instead of relying only on the lecturer's slides.
-- I practised reading and understanding Java examples.
-- I compared static and instance methods until I understood when each one should be used.
+- Creating a class from a UML diagram.
+- Creating objects using constructors.
+- Writing getter and setter methods.
+- Using the `Scanner` class for user input.
+- Using `JOptionPane` for input and output.
+- Updating object data using methods.
+- Displaying object information using the `toString()` method.
 
-# My Goal for Next Week
 
-Next week, I want to continue improving my Java programming skills by practising more coding examples. I also want to become more confident when deciding whether a method should be called using an object or the class name.
+
 
