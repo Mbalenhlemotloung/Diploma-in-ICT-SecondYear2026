@@ -8,7 +8,7 @@ One of the most valuable reminders from this week's revision was the importance 
 
 Overall, this revision has increased my confidence as I begin my second year of Application Development Practice. It has provided a solid foundation for the topics that will be introduced later in the semester, and I feel better prepared to build more complex Java applications.
 
----
+
 
 ## Key Takeaways
 
@@ -22,7 +22,7 @@ Overall, this revision has increased my confidence as I begin my second year of 
 * The `Scanner` class is used to accept input from the user.
 * Java is case-sensitive, meaning uppercase and lowercase letters are treated differently.
 
----
+
 
 ## Areas for Improvement
 
@@ -31,7 +31,7 @@ Overall, this revision has increased my confidence as I begin my second year of 
 * Improve my understanding of Object-Oriented Programming principles by applying them in practical exercises.
 * Practise writing complete Java programs independently.
 
----
+
 
 ## Looking Ahead
 
