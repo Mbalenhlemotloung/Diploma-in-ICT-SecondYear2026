@@ -1,4 +1,4 @@
-# Week 2 Reflection
+# Lesson 2 Reflection
 
 ## Topic
 
