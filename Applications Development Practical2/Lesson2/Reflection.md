@@ -45,6 +45,30 @@ Overall, the practical gave me more confidence in creating classes from UML diag
 - Updating object data using methods.
 - Displaying object information using the `toString()` method.
 
+ ---
+
+# Reflection on Practical 2
+
+In Practical 2, I created a `Circle` class using the UML requirements provided. The class included one instance variable called `radius`, a default constructor, an overloaded constructor, getter and setter methods, and methods to calculate the diameter, circumference, and area of a circle.
+
+This practical helped me understand how to create methods that return calculated values instead of simply storing data. I also learned how to use the `Math` class to perform mathematical calculations, making my code more efficient and accurate.
+
+I used the `JOptionPane` class to receive the radius from the user and to display the results. This helped me practise using static methods because `JOptionPane` methods are called using the class name without creating an object.
+
+Overall, this practical improved my understanding of constructors, instance methods, return methods, and the difference between storing data and calculating values. It also showed me how different methods work together to solve a real programming problem.
+
+---
+
+# Skills I Practised
+
+- Creating a class from UML requirements.
+- Writing default and overloaded constructors.
+- Creating getter and setter methods.
+- Writing methods that return values.
+- Using the `Math` class for calculations.
+- Using `JOptionPane` for user input and output.
+- Creating and testing Java objects.
+
 
 
 
